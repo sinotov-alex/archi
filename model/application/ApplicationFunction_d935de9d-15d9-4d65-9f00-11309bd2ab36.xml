@@ -1,5 +1,5 @@
-<archimate:ApplicationService
+<archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Помічник дій до водія"
-    id="ffe54ca2-e6b9-4d54-b250-77c1facf56bf"
+    name="Контроль роботи водія"
+    id="d935de9d-15d9-4d65-9f00-11309bd2ab36"
     documentation="1. Необхідно замінити водія&#xD;&#xA;2. Проблема з документами&#xD;&#xA;3. Хіартбіт&#xD;&#xA;4. Ліміти роботи/відпочинку/перебування вдома (які зараз?)"/>

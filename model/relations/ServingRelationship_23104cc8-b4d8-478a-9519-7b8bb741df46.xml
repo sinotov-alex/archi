@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="автоматиз."
+    id="23104cc8-b4d8-478a-9519-7b8bb741df46">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_de9c5ff2-c06b-44f4-844f-4ef507908370.xml#de9c5ff2-c06b-44f4-844f-4ef507908370"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_d935de9d-15d9-4d65-9f00-11309bd2ab36.xml#d935de9d-15d9-4d65-9f00-11309bd2ab36"/>
+</archimate:ServingRelationship>

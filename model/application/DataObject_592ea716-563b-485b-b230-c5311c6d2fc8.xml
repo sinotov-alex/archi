@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Таблиця вахти водія"
     id="592ea716-563b-485b-b230-c5311c6d2fc8"
-    documentation="1. дата початку&#xD;&#xA;2. дата кінця&#xD;&#xA;3. борт&#xD;&#xA;4. опції"/>
+    documentation="1. дата початку&#xD;&#xA;2. дата кінця&#xD;&#xA;3. борт&#xD;&#xA;4. опції/події/зміна статусу"/>

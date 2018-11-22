@@ -5,8 +5,8 @@
     id="e4ecf3a3-eacd-40ee-b774-ec3fa89fcf08"
     documentation="Хто не приймає рішення?&#xD;&#xA;">
   <source
-      xsi:type="archimate:Junction"
-      href="Junction_3ad15807-f45b-47ce-ba1b-010af186d54a.xml#3ad15807-f45b-47ce-ba1b-010af186d54a"/>
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_1d5a32be-c607-45b4-ab36-b80b58b23d14.xml#1d5a32be-c607-45b4-ab36-b80b58b23d14"/>
   <target
       xsi:type="archimate:BusinessEvent"
       href="BusinessEvent_34e7aa26-2689-429c-8444-e5d016bb04f3.xml#34e7aa26-2689-429c-8444-e5d016bb04f3"/>
