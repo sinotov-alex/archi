@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Так"
+    id="0042a077-bacb-4620-afdb-bb2a4433cb1a">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_3ad15807-f45b-47ce-ba1b-010af186d54a.xml#3ad15807-f45b-47ce-ba1b-010af186d54a"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_ae097b78-3ef3-472b-8576-dd156ea8e3ee.xml#ae097b78-3ef3-472b-8576-dd156ea8e3ee"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="додати"
+    id="061d33f6-7848-4131-8d99-344f2cd65f58">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_1d5a32be-c607-45b4-ab36-b80b58b23d14.xml#1d5a32be-c607-45b4-ab36-b80b58b23d14"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_1d89bc77-30d5-44c9-a1af-188bb0a4cbc3.xml#1d89bc77-30d5-44c9-a1af-188bb0a4cbc3"/>
+</archimate:AccessRelationship>

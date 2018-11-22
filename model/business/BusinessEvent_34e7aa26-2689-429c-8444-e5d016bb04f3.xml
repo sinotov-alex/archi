@@ -1,0 +1,5 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ескаляція задач"
+    id="34e7aa26-2689-429c-8444-e5d016bb04f3"
+    documentation="Подія(проблемна) на яку треба реагувати, комусь..&#xD;&#xA;проблема&#xD;&#xA;пауза/відміна&#xD;&#xA;обхідне рішення&#xD;&#xA;затримка"/>

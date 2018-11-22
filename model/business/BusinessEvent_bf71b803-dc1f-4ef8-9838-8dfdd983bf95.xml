@@ -1,0 +1,5 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Відсутність водія на дату звіту(подія)"
+    id="bf71b803-dc1f-4ef8-9838-8dfdd983bf95"
+    documentation="Водій сповіщає про дату приїзду"/>

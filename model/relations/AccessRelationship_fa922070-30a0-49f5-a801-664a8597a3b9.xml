@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="fa922070-30a0-49f5-a801-664a8597a3b9"
+    documentation="ACL">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_1d5a32be-c607-45b4-ab36-b80b58b23d14.xml#1d5a32be-c607-45b4-ab36-b80b58b23d14"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_d6f260a8-f894-41a5-bfa8-6ee47652b8e4.xml#d6f260a8-f894-41a5-bfa8-6ee47652b8e4"/>
+</archimate:AccessRelationship>
